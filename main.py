@@ -24,8 +24,18 @@ while True:
     match (opcao):
         case '1':
             print('Iniciar jogo!')
+            j.jogar()
         case '2':
             print('SCORE')
+            dados = fH.listar_arquivo('score.txt')
+            if not dados:
+                print('Score vazio.')
+            else:
+                i = 1
+                for jogador in dados:
+                    nome, pontuacao = jogador.strip().split(';')  # Divide a linha em nome e pontuação
+                    print(f'{i} -> {nome}, pontuação: {pontuacao}.')
+                    i += 1
         case '3':
             print('Saindo do jogo. Até mais!')
             break

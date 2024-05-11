@@ -14,6 +14,7 @@ def abrir_arquivo(nome_arquivo):
         print('Não foi possível abrir para leitura.')
     else:
         print(f'Arquivo {nome_arquivo} aberto com sucesso!\n')
+        return a
     
 def cria_arquivo(nome_arquivo):
     try:
