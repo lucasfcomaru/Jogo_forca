@@ -8,6 +8,7 @@
 1. Para jogar, o jogador deverá adivinhar a palavra que será carregada de uma lista de palavras dentro de um arquivo de texto.
 2. Ao jogar, o nome do jogador deve ser perguntado.
 3. Este nome será armazenado no final da jogada, junto com o score que o jogador fez.
+4. O Usuário perde se completar 6 erros.
 
 ## Contagem dos pontos
 1. O nome e o score devem ser armazenados dentro de um arquivo.

@@ -17,7 +17,7 @@ def abrir_arquivo(nome_arquivo):
     
 def cria_arquivo(nome_arquivo):
     try:
-        a = open(nome_arquivo, 'rt+')
+        a = open(nome_arquivo, 'wt+')
         a.close()
     except:
         ('Erro na criação do arquivo')
