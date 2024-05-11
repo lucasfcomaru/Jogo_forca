@@ -16,3 +16,18 @@ if fH.existe_arquivo(arquivo):
 else:
     print('Arquivo não existe.')
     fH.cria_arquivo(arquivo)
+
+while True:
+    mostra_menu()
+    opcao = (input('Escolha a opção [1/2/3]: '))
+
+    match (opcao):
+        case '1':
+            print('Iniciar jogo!')
+        case '2':
+            print('SCORE')
+        case '3':
+            print('Saindo do jogo. Até mais!')
+            break
+        case _:
+            print('Opção inválida, tente outra.')    
