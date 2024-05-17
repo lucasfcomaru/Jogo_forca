@@ -10,7 +10,7 @@
 
 # 📈 Jogo da forca com Python
 ## 📢 Descrição do Projeto
-### 🏹 Objetivo
+### 🎯 Objetivo
 <p align="left">
   O projeto tem caráter experimental e visa a prática do conhecimento adquirido na disciplina de Lógica de <b>Programação e Algoritmos</b> e linguagem Python, trabalhando com listas, dicionários, métodos para manipular as listas, funções, condicionais e laços de repetição.
 </p>
@@ -21,8 +21,8 @@
   <li><b>Visual Studio Code:</b> Ambiente de Desenvolvimento Integrado (IDE).</li>
 </ul>
 
-## 🚀 Etapas do jogo
-### ⛏️ Mecânica do jogo
+## 🎮 Etapas do jogo
+### 🕹️ Mecânica do jogo
 
 <ul>
   <li>Para jogar, o jogador deverá adivinhar a palavra que será carregada de uma lista de palavras dentro de um arquivo de texto.</li>
