@@ -1,4 +1,4 @@
-<img src="#"/>
+<img src="assets/banner_jogo_forca.png"/>
 
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/lucasfcomaru/Jogo_forca?style=for-the-badge" alt="Repo size" title="Repo size"/>
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/bitbucket/pr-raw/lucasfcomaru/Jogo_forca?style=for-the-badge" alt="Open pull requests count" title="Open pull requests"/>
 </p>
 
-# 📈 Jogo da forca com Python
+# 🔮 Jogo da forca com Python
 ## 📢 Descrição do Projeto
 ### 🎯 Objetivo
 <p align="left">
