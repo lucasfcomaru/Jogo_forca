@@ -36,3 +36,8 @@
   <li>O nome e o score são armazenados dentro de um arquivo .txt.</li>
   <li>Na opção score do menu é mantido a lista dos jogadores e suas recepectivas pontuações.</li>
 </ul>
+
+### 🐍 Requisitos
+<p align="left">
+  É necessário ter o Python versão 3.12 ou superior instalado.
+</p>
