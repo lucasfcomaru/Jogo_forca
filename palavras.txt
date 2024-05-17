@@ -1,4 +1,4 @@
-abordo
+papagaio
 ancora
 artilharia
 aventura
@@ -18,7 +18,6 @@ corsario
 costa
 cranio
 espada
-escorbuto
 galeao
 ilha
 jangada
@@ -27,7 +26,7 @@ mapa
 mar
 marinheiro
 mastro
-nau
+marujo
 naufragio
 navio
 oceano
@@ -42,9 +41,10 @@ rum
 saque
 segredo
 tesouro
-tortuga
+saqueador
 tregua
 tripulacao
 trono
 velas
 vitoria
+saqueador
