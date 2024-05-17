@@ -12,7 +12,7 @@
 ## 📢 Descrição do Projeto
 ### 🎯 Objetivo
 <p align="left">
-  O projeto tem caráter experimental e visa a prática do conhecimento adquirido na disciplina de Lógica de <b>Programação e Algoritmos</b> e linguagem Python, trabalhando com listas, dicionários, métodos para manipular as listas, funções, condicionais e laços de repetição.
+  O projeto tem caráter experimental e visa a prática do conhecimento adquirido na disciplina de <b>Lógica de Programação e Algoritmos</b> e linguagem Python, trabalhando com listas, dicionários, métodos para manipular as listas, funções, condicionais e laços de repetição.
 </p>
 
 ### 🛠️ Ferramentas utilizadas
