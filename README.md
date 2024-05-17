@@ -1,11 +1,11 @@
 <img src="#"/>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/lucasfcomaru/Pokemon_dataset_analysis?style=for-the-badge" alt="Repo size" title="Repo size"/>
-  <img src="https://img.shields.io/github/languages/count/lucasfcomaru/Pokemon_dataset_analysis?style=for-the-badge" alt="Language count" title="Language count"/>
-  <img src="https://img.shields.io/github/forks/lucasfcomaru/Pokemon_dataset_analysis?style=for-the-badge" alt="Forks" title="Forks"/>
-  <img src="https://img.shields.io/bitbucket/issues/lucasfcomaru/Pokemon_dataset_analysis?style=for-the-badge" alt="Open issues" title="Open issues"/>
-  <img src="https://img.shields.io/bitbucket/pr-raw/lucasfcomaru/Pokemon_dataset_analysis?style=for-the-badge" alt="Open pull requests count" title="Open pull requests"/>
+  <img src="https://img.shields.io/github/repo-size/lucasfcomaru/Jogo_forca?style=for-the-badge" alt="Repo size" title="Repo size"/>
+  <img src="https://img.shields.io/github/languages/count/lucasfcomaru/Jogo_forca?style=for-the-badge" alt="Language count" title="Language count"/>
+  <img src="https://img.shields.io/github/forks/lucasfcomaru/Jogo_forca?style=for-the-badge" alt="Forks" title="Forks"/>
+  <img src="https://img.shields.io/bitbucket/issues/lucasfcomaru/Jogo_forca?style=for-the-badge" alt="Open issues" title="Open issues"/>
+  <img src="https://img.shields.io/bitbucket/pr-raw/lucasfcomaru/Jogo_forca?style=for-the-badge" alt="Open pull requests count" title="Open pull requests"/>
 </p>
 
 # 📈 Jogo da forca com Python
