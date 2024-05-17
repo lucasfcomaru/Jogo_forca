@@ -1,17 +1,38 @@
-# Menu principal
-1. Jogar
-2. Score
-3. Sair
+<img src="#"/>
 
-# Instruções gerais
-## Mecânica do jogo
-1. Para jogar, o jogador deverá adivinhar a palavra que será carregada de uma lista de palavras dentro de um arquivo de texto.
-2. Ao jogar, o nome do jogador deve ser perguntado.
-3. Este nome será armazenado no final da jogada, junto com o score que o jogador fez.
-4. O Usuário perde se completar 6 erros.
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/lucasfcomaru/Pokemon_dataset_analysis?style=for-the-badge" alt="Repo size" title="Repo size"/>
+  <img src="https://img.shields.io/github/languages/count/lucasfcomaru/Pokemon_dataset_analysis?style=for-the-badge" alt="Language count" title="Language count"/>
+  <img src="https://img.shields.io/github/forks/lucasfcomaru/Pokemon_dataset_analysis?style=for-the-badge" alt="Forks" title="Forks"/>
+  <img src="https://img.shields.io/bitbucket/issues/lucasfcomaru/Pokemon_dataset_analysis?style=for-the-badge" alt="Open issues" title="Open issues"/>
+  <img src="https://img.shields.io/bitbucket/pr-raw/lucasfcomaru/Pokemon_dataset_analysis?style=for-the-badge" alt="Open pull requests count" title="Open pull requests"/>
+</p>
 
-## Contagem dos pontos
-1. O nome e o score devem ser armazenados dentro de um arquivo.
-2. Na opção de SCORE, mantenha salva a lista de jogadores e seus respectivos scores.
-3. Mostre os scores na tela quando selecionar essa opção.
+# 📈 Jogo da forca com Python
+## 📢 Descrição do Projeto
+### 🏹 Objetivo
+<p align="left">
+  O projeto tem caráter experimental e visa a prática do conhecimento adquirido na disciplina de Lógica de <b>Programação e Algoritmos</b> e linguagem Python, trabalhando com listas, dicionários, métodos para manipular as listas, funções, condicionais e laços de repetição.
+</p>
 
+### 🛠️ Ferramentas utilizadas
+<ul>
+  <li><b>Python:</b> Linguagem de programação principal.</li>
+  <li><b>Visual Studio Code:</b> Ambiente de Desenvolvimento Integrado (IDE).</li>
+</ul>
+
+## 🚀 Etapas do jogo
+### ⛏️ Mecânica do jogo
+
+<ul>
+  <li>Para jogar, o jogador deverá adivinhar a palavra que será carregada de uma lista de palavras dentro de um arquivo de texto.</li>
+  <li>Ao jogar, o usuário deve digitar seu nome.</li>
+  <li>O nome será armazenado no final da jogada, junto com o score que o jogador fez.</li>
+  <li>O Usuário perde ao completar 6 erros.</li>
+</ul>
+
+### 📊 Contagem de pontos
+<ul>
+  <li>O nome e o score são armazenados dentro de um arquivo .txt.</li>
+  <li>Na opção score do menu é mantido a lista dos jogadores e suas recepectivas pontuações.</li>
+</ul>
